@@ -8,4 +8,4 @@ Objetivo:
 - Aplicar los conocimientos adquiridos durante las clases y reforzar lo aprendido mediante una actividad práctica.
 
 Fecha de entrega:
-- Lunes, 6:00 p.m.
+- Lunes, 6:00 p.m. 
